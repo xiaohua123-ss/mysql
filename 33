@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW iiii(uid,name)AS  SELECT uid,name FROM user;
+
